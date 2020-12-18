@@ -1,7 +1,7 @@
 
 # Hi there!
 
-I am a sodtware engineer and I build android apps. I also write Python, Kotlin, and Java
+I am a software engineer and I build android apps. I also write Python, Kotlin, and Java
 
 ## 💌 Find me on internet places
 
