@@ -2,8 +2,8 @@
 # Hi there!
 
 I am a software engineer and I build android apps. I also write Python, Kotlin, and Java
-\nMy free time is dedicated to eating bugs 🐞 and I love reading
-\The tech world inspires me greatly and fuels me to make great impact
+\ My free time is dedicated to eating bugs 🐞 and I love reading
+\ The tech world inspires me greatly and fuels me to make great impact
 
 ## 💌 Find me on internet places
 
