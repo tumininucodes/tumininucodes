@@ -1,6 +1,3 @@
-
-#✌
-
 Android Developer
 
 ## Follow me on:
