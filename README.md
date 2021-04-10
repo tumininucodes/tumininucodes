@@ -1,9 +1,9 @@
 
-# Hi there ✌!
+#✌
 
-Android Developer. Writes Python and Dart
+Android Developer
 
-## Connect with me on:
+## Follow me on:
 
 - [Twitter](https://twitter.com/tumiOnIt)
 - [LinkedIn](www.linkedin.com/mwlite/in/oluwatumininu-ojo-831445185)
