@@ -4,6 +4,4 @@
 
 I am a Mobile App Developer.
 
-I love good UI and performance in mobile applications and love to implement them. 
-
-Welcome to my profile.
+I love good UI and performance in mobile applications and also love to implement them.
