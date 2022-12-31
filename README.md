@@ -2,4 +2,4 @@
 
 ## Hi there! 👋🏽
 
-I am a Mobile App Developer.
+I am a Software Engineer.
