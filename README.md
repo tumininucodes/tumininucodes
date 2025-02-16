@@ -3,7 +3,7 @@
 I am a Software Engineer.
 
 Go  
-Vue
-Svelte
+Vue  
+Svelte  
 Android native - Kotlin  
 iOS native - Swift
