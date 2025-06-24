@@ -3,6 +3,7 @@
 Software Engineer.
 
 Go  
+NodeJS  
 Svelte  
 Vue   
 Android native - Kotlin  
