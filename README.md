@@ -6,6 +6,5 @@ Go
 NodeJS  
 Svelte  
 Vue   
-Android native - Kotlin  
-iOS native - Swift
-Flutter
+Android Kotlin  
+iOS Swift  
