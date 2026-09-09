@@ -1,6 +1,6 @@
 ## Hi there! 👋🏽
 
-Software Engineer. Studio (tackstry.com)
+Software Engineer. Studio [(tackstry.com)](https://tackstry.com/)
 
 Go  
 NodeJS  
